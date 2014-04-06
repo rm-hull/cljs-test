@@ -1,4 +1,4 @@
-(defproject rm-hull/cljs-test "0.0.7"
+(defproject rm-hull/cljs-test "0.0.8-SNAPSHOT"
   :clojurescript? true
   :description "Very simple cljs testing"
   :url "https://github.com/rm-hull/cljs-test"
