@@ -19,4 +19,4 @@
                       :pretty-print true}}}
    :test-commands {"unit" ["phantomjs" "target/unit-test.js"]}}
   :dependencies [[org.clojure/clojurescript "0.0-2202"]]
-  :plugins [[lein-cljsbuild "1.0.1"]])
+  :plugins [[lein-cljsbuild "1.0.3"]])
